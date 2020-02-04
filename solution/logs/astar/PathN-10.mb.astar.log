@@ -1,0 +1,5 @@
+Found
+Total states explored:9173
+Final path length:10
+Final path: ['0180_dec', 'eq_inc', '0180_dec', '0180_dec', 'eq_inc', '90270_dec', 'eq_inc', '0180_dec', '0180_dec', 'eq_dec']
+--------------------------------------------------

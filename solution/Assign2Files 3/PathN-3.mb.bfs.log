@@ -1,0 +1,5 @@
+Found
+Total states explored:158
+Maximum frontier length: 634
+Final path length:3
+Final path: ['90270_inc', '90270_inc', 'eq_dec']

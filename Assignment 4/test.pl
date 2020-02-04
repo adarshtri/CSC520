@@ -1,0 +1,1 @@
+duration(a,10).

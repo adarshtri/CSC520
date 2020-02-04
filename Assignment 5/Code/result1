@@ -1,0 +1,644 @@
+************ Author Directory **********************
+
+/Users/atrivedi/Study Material/CSC_520/Assignment 5/Books1
+
+************** Sentence 1 result data ***********
+
+Sentence : chapter among purchases betty made new acquaintance got prints could admire found square stone flagged room evidently used laundry two 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [among] given first word from unigram [chapter] is 0.007194244604316547.
+
+Trigram probability for word [purchases] given words [('chapter', 'among')] is 1.0.
+Trigram probability for word [betty] given words [('among', 'purchases')] is 1.0.
+Trigram probability for word [made] given words [('purchases', 'betty')] is 1.0.
+Trigram probability for word [new] given words [('betty', 'made')] is 1.0.
+Trigram probability for word [acquaintance] given words [('made', 'new')] is 0.5.
+Trigram probability for word [got] given words [('new', 'acquaintance')] is 1.0.
+Trigram probability for word [prints] given words [('acquaintance', 'got')] is 1.0.
+Trigram probability for word [could] given words [('got', 'prints')] is 1.0.
+Trigram probability for word [admire] given words [('prints', 'could')] is 0.2.
+Trigram probability for word [found] given words [('could', 'admire')] is 0.3333333333333333.
+Trigram probability for word [square] given words [('admire', 'found')] is 1.0.
+Trigram probability for word [stone] given words [('found', 'square')] is 1.0.
+Trigram probability for word [flagged] given words [('square', 'stone')] is 1.0.
+Trigram probability for word [room] given words [('stone', 'flagged')] is 1.0.
+Trigram probability for word [evidently] given words [('flagged', 'room')] is 1.0.
+Trigram probability for word [used] given words [('room', 'evidently')] is 0.5.
+Trigram probability for word [laundry] given words [('evidently', 'used')] is 1.0.
+Trigram probability for word [two] given words [('used', 'laundry')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.007194244604316547 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 1.0 * 1.0 * 0.2 * 0.3333333333333333 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 1.0 = 8.764364793897199e-08
+Sentence Probability with other model: 0.0001575702664907132 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 1.575702664907133e-156
+
+
+************** Sentence 2 result data ***********
+
+Sentence : chapter falling star genuinely tired got back main road rushed along manner terrifying ever fearful racket heralded approach else must 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [falling] given first word from unigram [chapter] is 0.007194244604316547.
+
+Trigram probability for word [star] given words [('chapter', 'falling')] is 1.0.
+Trigram probability for word [genuinely] given words [('falling', 'star')] is 1.0.
+Trigram probability for word [tired] given words [('star', 'genuinely')] is 1.0.
+Trigram probability for word [got] given words [('genuinely', 'tired')] is 1.0.
+Trigram probability for word [back] given words [('tired', 'got')] is 0.5.
+Trigram probability for word [main] given words [('got', 'back')] is 0.05263157894736842.
+Trigram probability for word [road] given words [('back', 'main')] is 1.0.
+Trigram probability for word [rushed] given words [('main', 'road')] is 1.0.
+Trigram probability for word [along] given words [('road', 'rushed')] is 1.0.
+Trigram probability for word [manner] given words [('rushed', 'along')] is 1.0.
+Trigram probability for word [terrifying] given words [('along', 'manner')] is 1.0.
+Trigram probability for word [ever] given words [('manner', 'terrifying')] is 1.0.
+Trigram probability for word [fearful] given words [('terrifying', 'ever')] is 1.0.
+Trigram probability for word [racket] given words [('ever', 'fearful')] is 1.0.
+Trigram probability for word [heralded] given words [('fearful', 'racket')] is 1.0.
+Trigram probability for word [approach] given words [('racket', 'heralded')] is 1.0.
+Trigram probability for word [else] given words [('heralded', 'approach')] is 1.0.
+Trigram probability for word [must] given words [('approach', 'else')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.007194244604316547 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 0.05263157894736842 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 1.38384707272061e-07
+Sentence Probability with other model: 0.0001575702664907132 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 1.575702664907133e-156
+
+
+************** Sentence 3 result data ***********
+
+Sentence : chapter iii drama garden glanced watch nearly one o conor king erin three centuries christ swept falls drowned trying cross 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [iii] given first word from unigram [chapter] is 0.03597122302158273.
+
+Trigram probability for word [drama] given words [('chapter', 'iii')] is 0.2.
+Trigram probability for word [garden] given words [('iii', 'drama')] is 1.0.
+Trigram probability for word [glanced] given words [('drama', 'garden')] is 1.0.
+Trigram probability for word [watch] given words [('garden', 'glanced')] is 1.0.
+Trigram probability for word [nearly] given words [('glanced', 'watch')] is 0.06666666666666667.
+Trigram probability for word [one] given words [('watch', 'nearly')] is 0.3333333333333333.
+Trigram probability for word [o] given words [('nearly', 'one')] is 1.0.
+Trigram probability for word [conor] given words [('one', 'o')] is 0.2.
+Trigram probability for word [king] given words [('o', 'conor')] is 0.2857142857142857.
+Trigram probability for word [erin] given words [('conor', 'king')] is 0.5.
+Trigram probability for word [three] given words [('king', 'erin')] is 0.25.
+Trigram probability for word [centuries] given words [('erin', 'three')] is 1.0.
+Trigram probability for word [christ] given words [('three', 'centuries')] is 0.25.
+Trigram probability for word [swept] given words [('centuries', 'christ')] is 1.0.
+Trigram probability for word [falls] given words [('christ', 'swept')] is 1.0.
+Trigram probability for word [drowned] given words [('swept', 'falls')] is 1.0.
+Trigram probability for word [trying] given words [('falls', 'drowned')] is 1.0.
+Trigram probability for word [cross] given words [('drowned', 'trying')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.03597122302158273 * 0.2 * 1.0 * 1.0 * 1.0 * 0.06666666666666667 * 0.3333333333333333 * 1.0 * 0.2 * 0.2857142857142857 * 0.5 * 0.25 * 1.0 * 0.25 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 2.0867535223564755e-10
+Sentence Probability with other model: 0.0001575702664907132 * 0.041666666666666664 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 6.565427770446388e-150
+
+
+************** Sentence 4 result data ***********
+
+Sentence : chapter xxv maiden city far busiest town seen butter making looked great artillery barracks big market mammoth jail still mammoth 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [xxv] given first word from unigram [chapter] is 0.02877697841726619.
+
+Trigram probability for word [maiden] given words [('chapter', 'xxv')] is 0.25.
+Trigram probability for word [city] given words [('xxv', 'maiden')] is 1.0.
+Trigram probability for word [far] given words [('maiden', 'city')] is 0.25.
+Trigram probability for word [busiest] given words [('city', 'far')] is 1.0.
+Trigram probability for word [town] given words [('far', 'busiest')] is 1.0.
+Trigram probability for word [seen] given words [('busiest', 'town')] is 1.0.
+Trigram probability for word [butter] given words [('town', 'seen')] is 0.5.
+Trigram probability for word [making] given words [('seen', 'butter')] is 1.0.
+Trigram probability for word [looked] given words [('butter', 'making')] is 1.0.
+Trigram probability for word [great] given words [('making', 'looked')] is 1.0.
+Trigram probability for word [artillery] given words [('looked', 'great')] is 1.0.
+Trigram probability for word [barracks] given words [('great', 'artillery')] is 1.0.
+Trigram probability for word [big] given words [('artillery', 'barracks')] is 1.0.
+Trigram probability for word [market] given words [('barracks', 'big')] is 1.0.
+Trigram probability for word [mammoth] given words [('big', 'market')] is 1.0.
+Trigram probability for word [jail] given words [('market', 'mammoth')] is 1.0.
+Trigram probability for word [still] given words [('mammoth', 'jail')] is 1.0.
+Trigram probability for word [mammoth] given words [('jail', 'still')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.02877697841726619 * 0.25 * 1.0 * 0.25 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 6.573273595422898e-07
+Sentence Probability with other model: 0.0001575702664907132 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 1.575702664907133e-156
+
+
+************** Sentence 5 result data ***********
+
+Sentence : chapter xxi godfrey weaves romance begun fear godfrey going side absolutely said sylvester following lines first right left shouldered way 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [xxi] given first word from unigram [chapter] is 0.02877697841726619.
+
+Trigram probability for word [godfrey] given words [('chapter', 'xxi')] is 0.25.
+Trigram probability for word [weaves] given words [('xxi', 'godfrey')] is 1.0.
+Trigram probability for word [romance] given words [('godfrey', 'weaves')] is 1.0.
+Trigram probability for word [begun] given words [('weaves', 'romance')] is 1.0.
+Trigram probability for word [fear] given words [('romance', 'begun')] is 1.0.
+Trigram probability for word [godfrey] given words [('begun', 'fear')] is 1.0.
+Trigram probability for word [going] given words [('fear', 'godfrey')] is 0.5.
+Trigram probability for word [side] given words [('godfrey', 'going')] is 0.3333333333333333.
+Trigram probability for word [absolutely] given words [('going', 'side')] is 1.0.
+Trigram probability for word [said] given words [('side', 'absolutely')] is 1.0.
+Trigram probability for word [sylvester] given words [('absolutely', 'said')] is 1.0.
+Trigram probability for word [following] given words [('said', 'sylvester')] is 0.16666666666666666.
+Trigram probability for word [lines] given words [('sylvester', 'following')] is 1.0.
+Trigram probability for word [first] given words [('following', 'lines')] is 1.0.
+Trigram probability for word [right] given words [('lines', 'first')] is 1.0.
+Trigram probability for word [left] given words [('first', 'right')] is 1.0.
+Trigram probability for word [shouldered] given words [('right', 'left')] is 0.14285714285714285.
+Trigram probability for word [way] given words [('left', 'shouldered')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.02877697841726619 * 0.25 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 0.3333333333333333 * 1.0 * 1.0 * 1.0 * 0.16666666666666666 * 1.0 * 1.0 * 1.0 * 1.0 * 0.14285714285714285 * 1.0 = 2.0867535223564754e-08
+Sentence Probability with other model: 0.0001575702664907132 * 0.041666666666666664 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1.0 * 1e-08 * 1e-08 = 6.565427770446388e-142
+
+
+************** Sentence 6 result data ***********
+
+Sentence : chapter house refectory beautiful octagonal building used lavatory marked word introduction continental elaborations refinements luxuries land theretofore austerity ruling influence 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [house] given first word from unigram [chapter] is 0.014388489208633094.
+
+Trigram probability for word [refectory] given words [('chapter', 'house')] is 0.5.
+Trigram probability for word [beautiful] given words [('house', 'refectory')] is 1.0.
+Trigram probability for word [octagonal] given words [('refectory', 'beautiful')] is 1.0.
+Trigram probability for word [building] given words [('beautiful', 'octagonal')] is 1.0.
+Trigram probability for word [used] given words [('octagonal', 'building')] is 1.0.
+Trigram probability for word [lavatory] given words [('building', 'used')] is 1.0.
+Trigram probability for word [marked] given words [('used', 'lavatory')] is 1.0.
+Trigram probability for word [word] given words [('lavatory', 'marked')] is 1.0.
+Trigram probability for word [introduction] given words [('marked', 'word')] is 1.0.
+Trigram probability for word [continental] given words [('word', 'introduction')] is 1.0.
+Trigram probability for word [elaborations] given words [('introduction', 'continental')] is 1.0.
+Trigram probability for word [refinements] given words [('continental', 'elaborations')] is 1.0.
+Trigram probability for word [luxuries] given words [('elaborations', 'refinements')] is 1.0.
+Trigram probability for word [land] given words [('refinements', 'luxuries')] is 1.0.
+Trigram probability for word [theretofore] given words [('luxuries', 'land')] is 1.0.
+Trigram probability for word [austerity] given words [('land', 'theretofore')] is 1.0.
+Trigram probability for word [ruling] given words [('theretofore', 'austerity')] is 1.0.
+Trigram probability for word [influence] given words [('austerity', 'ruling')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.014388489208633094 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 5.258618876338319e-06
+Sentence Probability with other model: 0.0001575702664907132 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 1.575702664907133e-156
+
+
+************** Sentence 7 result data ***********
+
+Sentence : chapter xxvii last act drama overslept next morning pilgrimage fate willed accomplish day drogheda thirty miles away farther north could 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [xxvii] given first word from unigram [chapter] is 0.02877697841726619.
+
+Trigram probability for word [last] given words [('chapter', 'xxvii')] is 0.25.
+Trigram probability for word [act] given words [('xxvii', 'last')] is 1.0.
+Trigram probability for word [drama] given words [('last', 'act')] is 0.6666666666666666.
+Trigram probability for word [overslept] given words [('act', 'drama')] is 0.5.
+Trigram probability for word [next] given words [('drama', 'overslept')] is 1.0.
+Trigram probability for word [morning] given words [('overslept', 'next')] is 1.0.
+Trigram probability for word [pilgrimage] given words [('next', 'morning')] is 0.024390243902439025.
+Trigram probability for word [fate] given words [('morning', 'pilgrimage')] is 1.0.
+Trigram probability for word [willed] given words [('pilgrimage', 'fate')] is 1.0.
+Trigram probability for word [accomplish] given words [('fate', 'willed')] is 1.0.
+Trigram probability for word [day] given words [('willed', 'accomplish')] is 1.0.
+Trigram probability for word [drogheda] given words [('accomplish', 'day')] is 1.0.
+Trigram probability for word [thirty] given words [('day', 'drogheda')] is 1.0.
+Trigram probability for word [miles] given words [('drogheda', 'thirty')] is 1.0.
+Trigram probability for word [away] given words [('thirty', 'miles')] is 0.2857142857142857.
+Trigram probability for word [farther] given words [('miles', 'away')] is 0.047619047619047616.
+Trigram probability for word [north] given words [('away', 'farther')] is 1.0.
+Trigram probability for word [could] given words [('farther', 'north')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.02877697841726619 * 0.25 * 1.0 * 0.6666666666666666 * 0.5 * 1.0 * 1.0 * 0.024390243902439025 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.2857142857142857 * 0.047619047619047616 * 1.0 * 1.0 = 5.81673455709122e-10
+Sentence Probability with other model: 0.0001575702664907132 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 1.575702664907133e-156
+
+
+************** Sentence 8 result data ***********
+
+Sentence : chapter xiii en voyage mr graham smiled read first lines _record_ representative pleasure yesterday evening dining mr warwick lester brilliant 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [xiii] given first word from unigram [chapter] is 0.03597122302158273.
+
+Trigram probability for word [en] given words [('chapter', 'xiii')] is 0.2.
+Trigram probability for word [voyage] given words [('xiii', 'en')] is 1.0.
+Trigram probability for word [mr] given words [('en', 'voyage')] is 1.0.
+Trigram probability for word [graham] given words [('voyage', 'mr')] is 1.0.
+Trigram probability for word [smiled] given words [('mr', 'graham')] is 0.058823529411764705.
+Trigram probability for word [read] given words [('graham', 'smiled')] is 0.5.
+Trigram probability for word [first] given words [('smiled', 'read')] is 0.5.
+Trigram probability for word [lines] given words [('read', 'first')] is 0.5.
+Trigram probability for word [_record_] given words [('first', 'lines')] is 0.3333333333333333.
+Trigram probability for word [representative] given words [('lines', '_record_')] is 1.0.
+Trigram probability for word [pleasure] given words [('_record_', 'representative')] is 1.0.
+Trigram probability for word [yesterday] given words [('representative', 'pleasure')] is 1.0.
+Trigram probability for word [evening] given words [('pleasure', 'yesterday')] is 1.0.
+Trigram probability for word [dining] given words [('yesterday', 'evening')] is 1.0.
+Trigram probability for word [mr] given words [('evening', 'dining')] is 1.0.
+Trigram probability for word [warwick] given words [('dining', 'mr')] is 1.0.
+Trigram probability for word [lester] given words [('mr', 'warwick')] is 1.0.
+Trigram probability for word [brilliant] given words [('warwick', 'lester')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.03597122302158273 * 0.2 * 1.0 * 1.0 * 1.0 * 0.058823529411764705 * 0.5 * 0.5 * 0.5 * 0.3333333333333333 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 1.2888771755731173e-08
+Sentence Probability with other model: 0.0001575702664907132 * 0.041666666666666664 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 6.565427770446388e-150
+
+
+************** Sentence 9 result data ***********
+
+Sentence : chapter xiv recalled front never slippers easy chair beside table upon lying evening papers glance showed reading perturbed face bespoke 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [xiv] given first word from unigram [chapter] is 0.03597122302158273.
+
+Trigram probability for word [recalled] given words [('chapter', 'xiv')] is 0.2.
+Trigram probability for word [front] given words [('xiv', 'recalled')] is 1.0.
+Trigram probability for word [never] given words [('recalled', 'front')] is 1.0.
+Trigram probability for word [slippers] given words [('front', 'never')] is 1.0.
+Trigram probability for word [easy] given words [('never', 'slippers')] is 1.0.
+Trigram probability for word [chair] given words [('slippers', 'easy')] is 1.0.
+Trigram probability for word [beside] given words [('easy', 'chair')] is 0.3333333333333333.
+Trigram probability for word [table] given words [('chair', 'beside')] is 1.0.
+Trigram probability for word [upon] given words [('beside', 'table')] is 0.5.
+Trigram probability for word [lying] given words [('table', 'upon')] is 0.5.
+Trigram probability for word [evening] given words [('upon', 'lying')] is 1.0.
+Trigram probability for word [papers] given words [('lying', 'evening')] is 1.0.
+Trigram probability for word [glance] given words [('evening', 'papers')] is 1.0.
+Trigram probability for word [showed] given words [('papers', 'glance')] is 1.0.
+Trigram probability for word [reading] given words [('glance', 'showed')] is 1.0.
+Trigram probability for word [perturbed] given words [('showed', 'reading')] is 1.0.
+Trigram probability for word [face] given words [('reading', 'perturbed')] is 1.0.
+Trigram probability for word [bespoke] given words [('perturbed', 'face')] is 1.0.
+
+Sentence Probability: 0.0007309480238110263 * 0.03597122302158273 * 0.2 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.3333333333333333 * 1.0 * 0.5 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 4.3821823969485986e-07
+Sentence Probability with other model: 0.0001575702664907132 * 0.041666666666666664 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 6.565427770446388e-150
+
+
+************** Sentence 10 result data ***********
+
+Sentence : chapter xxiv secret dusk evening came athlone one would interest dr hinman stopped us woman ragged forlorn tale woe culminated 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [chapter] is 0.0007309480238110263.
+
+Bigram probability for word [xxiv] given first word from unigram [chapter] is 0.02877697841726619.
+
+Trigram probability for word [secret] given words [('chapter', 'xxiv')] is 0.5.
+Trigram probability for word [dusk] given words [('xxiv', 'secret')] is 0.5.
+Trigram probability for word [evening] given words [('secret', 'dusk')] is 1.0.
+Trigram probability for word [came] given words [('dusk', 'evening')] is 0.5.
+Trigram probability for word [athlone] given words [('evening', 'came')] is 0.5.
+Trigram probability for word [one] given words [('came', 'athlone')] is 1.0.
+Trigram probability for word [would] given words [('athlone', 'one')] is 1.0.
+Trigram probability for word [interest] given words [('one', 'would')] is 0.03571428571428571.
+Trigram probability for word [dr] given words [('would', 'interest')] is 0.3333333333333333.
+Trigram probability for word [hinman] given words [('interest', 'dr')] is 1.0.
+Trigram probability for word [stopped] given words [('dr', 'hinman')] is 0.043478260869565216.
+Trigram probability for word [us] given words [('hinman', 'stopped')] is 1.0.
+Trigram probability for word [woman] given words [('stopped', 'us')] is 0.25.
+Trigram probability for word [ragged] given words [('us', 'woman')] is 0.5.
+Trigram probability for word [forlorn] given words [('woman', 'ragged')] is 1.0.
+Trigram probability for word [tale] given words [('ragged', 'forlorn')] is 1.0.
+Trigram probability for word [woe] given words [('forlorn', 'tale')] is 1.0.
+Trigram probability for word [culminated] given words [('tale', 'woe')] is 0.5.
+
+Sentence Probability: 0.0007309480238110263 * 0.02877697841726619 * 0.5 * 0.5 * 1.0 * 0.5 * 0.5 * 1.0 * 1.0 * 0.03571428571428571 * 0.3333333333333333 * 1.0 * 0.043478260869565216 * 1.0 * 0.25 * 0.5 * 1.0 * 1.0 * 1.0 * 0.5 = 4.252894406976512e-11
+Sentence Probability with other model: 0.0001575702664907132 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 1.575702664907133e-156
+************ Author Directory **********************
+
+/Users/atrivedi/Study Material/CSC_520/Assignment 5/Books2
+
+************** Sentence 1 result data ***********
+
+Sentence : square knew following day deputation us marched maclachan around 17 apologize stood stairway awaiting pleasure could hear one smash knew 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [knew] given first word from unigram [square] is 0.017543859649122806.
+
+Trigram probability for word [following] given words [('square', 'knew')] is 0.25.
+Trigram probability for word [day] given words [('knew', 'following')] is 1.0.
+Trigram probability for word [deputation] given words [('following', 'day')] is 0.5.
+Trigram probability for word [us] given words [('day', 'deputation')] is 1.0.
+Trigram probability for word [marched] given words [('deputation', 'us')] is 1.0.
+Trigram probability for word [maclachan] given words [('us', 'marched')] is 1.0.
+Trigram probability for word [around] given words [('marched', 'maclachan')] is 1.0.
+Trigram probability for word [17] given words [('maclachan', 'around')] is 1.0.
+Trigram probability for word [apologize] given words [('around', '17')] is 1.0.
+Trigram probability for word [stood] given words [('17', 'apologize')] is 1.0.
+Trigram probability for word [stairway] given words [('apologize', 'stood')] is 1.0.
+Trigram probability for word [awaiting] given words [('stood', 'stairway')] is 1.0.
+Trigram probability for word [pleasure] given words [('stairway', 'awaiting')] is 1.0.
+Trigram probability for word [could] given words [('awaiting', 'pleasure')] is 1.0.
+Trigram probability for word [hear] given words [('pleasure', 'could')] is 1.0.
+Trigram probability for word [one] given words [('could', 'hear')] is 0.06666666666666667.
+Trigram probability for word [smash] given words [('hear', 'one')] is 0.5.
+Trigram probability for word [knew] given words [('one', 'smash')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.017543859649122806 * 0.25 * 1.0 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.06666666666666667 * 0.5 * 1.0 = 1.0942379617410638e-07
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 2 result data ***********
+
+Sentence : square tailor one late august day doctor passing home fashion though ll stop town see mr sheriff right saw face 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [tailor] given first word from unigram [square] is 0.0043859649122807015.
+
+Trigram probability for word [one] given words [('square', 'tailor')] is 1.0.
+Trigram probability for word [late] given words [('tailor', 'one')] is 1.0.
+Trigram probability for word [august] given words [('one', 'late')] is 1.0.
+Trigram probability for word [day] given words [('late', 'august')] is 1.0.
+Trigram probability for word [doctor] given words [('august', 'day')] is 1.0.
+Trigram probability for word [passing] given words [('day', 'doctor')] is 0.5.
+Trigram probability for word [home] given words [('doctor', 'passing')] is 1.0.
+Trigram probability for word [fashion] given words [('passing', 'home')] is 1.0.
+Trigram probability for word [though] given words [('home', 'fashion')] is 0.1111111111111111.
+Trigram probability for word [ll] given words [('fashion', 'though')] is 1.0.
+Trigram probability for word [stop] given words [('though', 'll')] is 0.25.
+Trigram probability for word [town] given words [('ll', 'stop')] is 0.5.
+Trigram probability for word [see] given words [('stop', 'town')] is 1.0.
+Trigram probability for word [mr] given words [('town', 'see')] is 1.0.
+Trigram probability for word [sheriff] given words [('see', 'mr')] is 0.14285714285714285.
+Trigram probability for word [right] given words [('mr', 'sheriff')] is 0.25.
+Trigram probability for word [saw] given words [('sheriff', 'right')] is 0.5.
+Trigram probability for word [face] given words [('right', 'saw')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.0043859649122807015 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 1.0 * 0.1111111111111111 * 1.0 * 0.25 * 0.5 * 1.0 * 1.0 * 0.14285714285714285 * 0.25 * 0.5 * 1.0 = 8.141651501049582e-10
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 3 result data ***********
+
+Sentence : square remarked concern indoor employment didn seem show every professor every undergraduate knew bad air recitation rooms kept tightly closed 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [remarked] given first word from unigram [square] is 0.0043859649122807015.
+
+Trigram probability for word [concern] given words [('square', 'remarked')] is 1.0.
+Trigram probability for word [indoor] given words [('remarked', 'concern')] is 1.0.
+Trigram probability for word [employment] given words [('concern', 'indoor')] is 1.0.
+Trigram probability for word [didn] given words [('indoor', 'employment')] is 1.0.
+Trigram probability for word [seem] given words [('employment', 'didn')] is 1.0.
+Trigram probability for word [show] given words [('didn', 'seem')] is 0.25.
+Trigram probability for word [every] given words [('seem', 'show')] is 1.0.
+Trigram probability for word [professor] given words [('show', 'every')] is 1.0.
+Trigram probability for word [every] given words [('every', 'professor')] is 1.0.
+Trigram probability for word [undergraduate] given words [('professor', 'every')] is 1.0.
+Trigram probability for word [knew] given words [('every', 'undergraduate')] is 1.0.
+Trigram probability for word [bad] given words [('undergraduate', 'knew')] is 1.0.
+Trigram probability for word [air] given words [('knew', 'bad')] is 0.5.
+Trigram probability for word [recitation] given words [('bad', 'air')] is 0.5.
+Trigram probability for word [rooms] given words [('air', 'recitation')] is 1.0.
+Trigram probability for word [kept] given words [('recitation', 'rooms')] is 1.0.
+Trigram probability for word [tightly] given words [('rooms', 'kept')] is 1.0.
+Trigram probability for word [closed] given words [('kept', 'tightly')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.0043859649122807015 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.25 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 = 4.103392356528989e-07
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 4 result data ***********
+
+Sentence : square might better business first dinner marot get believe well sighed memory formidable task accomplished think gulf two full shameful 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [might] given first word from unigram [square] is 0.008771929824561403.
+
+Trigram probability for word [better] given words [('square', 'might')] is 0.5.
+Trigram probability for word [business] given words [('might', 'better')] is 0.3333333333333333.
+Trigram probability for word [first] given words [('better', 'business')] is 0.3333333333333333.
+Trigram probability for word [dinner] given words [('business', 'first')] is 0.5.
+Trigram probability for word [marot] given words [('first', 'dinner')] is 1.0.
+Trigram probability for word [get] given words [('dinner', 'marot')] is 1.0.
+Trigram probability for word [believe] given words [('marot', 'get')] is 1.0.
+Trigram probability for word [well] given words [('get', 'believe')] is 1.0.
+Trigram probability for word [sighed] given words [('believe', 'well')] is 1.0.
+Trigram probability for word [memory] given words [('well', 'sighed')] is 1.0.
+Trigram probability for word [formidable] given words [('sighed', 'memory')] is 1.0.
+Trigram probability for word [task] given words [('memory', 'formidable')] is 1.0.
+Trigram probability for word [accomplished] given words [('formidable', 'task')] is 1.0.
+Trigram probability for word [think] given words [('task', 'accomplished')] is 1.0.
+Trigram probability for word [gulf] given words [('accomplished', 'think')] is 1.0.
+Trigram probability for word [two] given words [('think', 'gulf')] is 1.0.
+Trigram probability for word [full] given words [('gulf', 'two')] is 1.0.
+Trigram probability for word [shameful] given words [('two', 'full')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.008771929824561403 * 0.5 * 0.3333333333333333 * 0.3333333333333333 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 3.647459872470212e-07
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 5 result data ***********
+
+Sentence : square command view well remember day little paula singing song disturbed young carlo lesson carlo one educational luxury assistant professor 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [command] given first word from unigram [square] is 0.0043859649122807015.
+
+Trigram probability for word [view] given words [('square', 'command')] is 1.0.
+Trigram probability for word [well] given words [('command', 'view')] is 1.0.
+Trigram probability for word [remember] given words [('view', 'well')] is 1.0.
+Trigram probability for word [day] given words [('well', 'remember')] is 1.0.
+Trigram probability for word [little] given words [('remember', 'day')] is 0.5.
+Trigram probability for word [paula] given words [('day', 'little')] is 0.3333333333333333.
+Trigram probability for word [singing] given words [('little', 'paula')] is 0.25.
+Trigram probability for word [song] given words [('paula', 'singing')] is 1.0.
+Trigram probability for word [disturbed] given words [('singing', 'song')] is 1.0.
+Trigram probability for word [young] given words [('song', 'disturbed')] is 1.0.
+Trigram probability for word [carlo] given words [('disturbed', 'young')] is 1.0.
+Trigram probability for word [lesson] given words [('young', 'carlo')] is 1.0.
+Trigram probability for word [carlo] given words [('carlo', 'lesson')] is 1.0.
+Trigram probability for word [one] given words [('lesson', 'carlo')] is 1.0.
+Trigram probability for word [educational] given words [('carlo', 'one')] is 1.0.
+Trigram probability for word [luxury] given words [('one', 'educational')] is 1.0.
+Trigram probability for word [assistant] given words [('educational', 'luxury')] is 1.0.
+Trigram probability for word [professor] given words [('luxury', 'assistant')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.0043859649122807015 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 0.3333333333333333 * 0.25 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 2.735594904352659e-07
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 6 result data ***********
+
+Sentence : square nurse saw aerial messenger traced string varick roof one inside cage one outside appeared engaged amicable discourse caged figure 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [nurse] given first word from unigram [square] is 0.0043859649122807015.
+
+Trigram probability for word [saw] given words [('square', 'nurse')] is 1.0.
+Trigram probability for word [aerial] given words [('nurse', 'saw')] is 1.0.
+Trigram probability for word [messenger] given words [('saw', 'aerial')] is 1.0.
+Trigram probability for word [traced] given words [('aerial', 'messenger')] is 1.0.
+Trigram probability for word [string] given words [('messenger', 'traced')] is 1.0.
+Trigram probability for word [varick] given words [('traced', 'string')] is 1.0.
+Trigram probability for word [roof] given words [('string', 'varick')] is 1.0.
+Trigram probability for word [one] given words [('varick', 'roof')] is 0.5.
+Trigram probability for word [inside] given words [('roof', 'one')] is 1.0.
+Trigram probability for word [cage] given words [('one', 'inside')] is 1.0.
+Trigram probability for word [one] given words [('inside', 'cage')] is 1.0.
+Trigram probability for word [outside] given words [('cage', 'one')] is 1.0.
+Trigram probability for word [appeared] given words [('one', 'outside')] is 1.0.
+Trigram probability for word [engaged] given words [('outside', 'appeared')] is 1.0.
+Trigram probability for word [amicable] given words [('appeared', 'engaged')] is 1.0.
+Trigram probability for word [discourse] given words [('engaged', 'amicable')] is 1.0.
+Trigram probability for word [caged] given words [('amicable', 'discourse')] is 1.0.
+Trigram probability for word [figure] given words [('discourse', 'caged')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.0043859649122807015 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 3.2827138852231913e-06
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 7 result data ***********
+
+Sentence : square nurse saw aerial messenger traced string varick roof hurried home upstairs roof top could see way gully stumbled slid 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [nurse] given first word from unigram [square] is 0.0043859649122807015.
+
+Trigram probability for word [saw] given words [('square', 'nurse')] is 1.0.
+Trigram probability for word [aerial] given words [('nurse', 'saw')] is 1.0.
+Trigram probability for word [messenger] given words [('saw', 'aerial')] is 1.0.
+Trigram probability for word [traced] given words [('aerial', 'messenger')] is 1.0.
+Trigram probability for word [string] given words [('messenger', 'traced')] is 1.0.
+Trigram probability for word [varick] given words [('traced', 'string')] is 1.0.
+Trigram probability for word [roof] given words [('string', 'varick')] is 1.0.
+Trigram probability for word [hurried] given words [('varick', 'roof')] is 0.5.
+Trigram probability for word [home] given words [('roof', 'hurried')] is 1.0.
+Trigram probability for word [upstairs] given words [('hurried', 'home')] is 1.0.
+Trigram probability for word [roof] given words [('home', 'upstairs')] is 1.0.
+Trigram probability for word [top] given words [('upstairs', 'roof')] is 1.0.
+Trigram probability for word [could] given words [('roof', 'top')] is 0.5.
+Trigram probability for word [see] given words [('top', 'could')] is 1.0.
+Trigram probability for word [way] given words [('could', 'see')] is 0.03333333333333333.
+Trigram probability for word [gully] given words [('see', 'way')] is 0.5.
+Trigram probability for word [stumbled] given words [('way', 'gully')] is 1.0.
+Trigram probability for word [slid] given words [('gully', 'stumbled')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.0043859649122807015 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 0.03333333333333333 * 0.5 * 1.0 * 1.0 = 2.7355949043526595e-08
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1.0 * 0.022900763358778626 * 1e-08 * 1e-08 * 1e-08 = 9.1524053725583e-142
+
+
+************** Sentence 8 result data ***********
+
+Sentence : square greek swiftness eye hand must _touch _ emphatically ordered scientist iss cabin disappeared companionway clasping precious load young man 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [greek] given first word from unigram [square] is 0.0043859649122807015.
+
+Trigram probability for word [swiftness] given words [('square', 'greek')] is 1.0.
+Trigram probability for word [eye] given words [('greek', 'swiftness')] is 1.0.
+Trigram probability for word [hand] given words [('swiftness', 'eye')] is 1.0.
+Trigram probability for word [must] given words [('eye', 'hand')] is 1.0.
+Trigram probability for word [_touch] given words [('hand', 'must')] is 0.5.
+Trigram probability for word [_] given words [('must', '_touch')] is 1.0.
+Trigram probability for word [emphatically] given words [('_touch', '_')] is 1.0.
+Trigram probability for word [ordered] given words [('_', 'emphatically')] is 1.0.
+Trigram probability for word [scientist] given words [('emphatically', 'ordered')] is 1.0.
+Trigram probability for word [iss] given words [('ordered', 'scientist')] is 1.0.
+Trigram probability for word [cabin] given words [('scientist', 'iss')] is 1.0.
+Trigram probability for word [disappeared] given words [('iss', 'cabin')] is 1.0.
+Trigram probability for word [companionway] given words [('cabin', 'disappeared')] is 1.0.
+Trigram probability for word [clasping] given words [('disappeared', 'companionway')] is 1.0.
+Trigram probability for word [precious] given words [('companionway', 'clasping')] is 1.0.
+Trigram probability for word [load] given words [('clasping', 'precious')] is 1.0.
+Trigram probability for word [young] given words [('precious', 'load')] is 1.0.
+Trigram probability for word [man] given words [('load', 'young')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.0043859649122807015 * 1.0 * 1.0 * 1.0 * 1.0 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 3.2827138852231913e-06
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 9 result data ***********
+
+Sentence : square haunted midnight uneasy figures slinking shadowy backgrounds one one may believe would said mrs clyde discharge inflamed nose throat 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [haunted] given first word from unigram [square] is 0.0043859649122807015.
+
+Trigram probability for word [midnight] given words [('square', 'haunted')] is 1.0.
+Trigram probability for word [uneasy] given words [('haunted', 'midnight')] is 1.0.
+Trigram probability for word [figures] given words [('midnight', 'uneasy')] is 1.0.
+Trigram probability for word [slinking] given words [('uneasy', 'figures')] is 1.0.
+Trigram probability for word [shadowy] given words [('figures', 'slinking')] is 1.0.
+Trigram probability for word [backgrounds] given words [('slinking', 'shadowy')] is 1.0.
+Trigram probability for word [one] given words [('shadowy', 'backgrounds')] is 1.0.
+Trigram probability for word [one] given words [('backgrounds', 'one')] is 1.0.
+Trigram probability for word [may] given words [('one', 'one')] is 0.14285714285714285.
+Trigram probability for word [believe] given words [('one', 'may')] is 0.1111111111111111.
+Trigram probability for word [would] given words [('may', 'believe')] is 0.3333333333333333.
+Trigram probability for word [said] given words [('believe', 'would')] is 0.25.
+Trigram probability for word [mrs] given words [('would', 'said')] is 0.25.
+Trigram probability for word [clyde] given words [('said', 'mrs')] is 0.6857142857142857.
+Trigram probability for word [discharge] given words [('mrs', 'clyde')] is 0.005405405405405406.
+Trigram probability for word [inflamed] given words [('clyde', 'discharge')] is 1.0.
+Trigram probability for word [nose] given words [('discharge', 'inflamed')] is 1.0.
+Trigram probability for word [throat] given words [('inflamed', 'nose')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.0043859649122807015 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 0.14285714285714285 * 0.1111111111111111 * 0.3333333333333333 * 0.25 * 0.25 * 0.6857142857142857 * 0.005405405405405406 * 1.0 * 1.0 * 1.0 = 8.04734665740808e-12
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156
+
+
+************** Sentence 10 result data ***********
+
+Sentence : square carlo pondered theory born temporary local conditions occurred got measles easy way enlighten carlo reasons descendant varicks permitted take 
+Sentence Probability Distribution: 
+
+Unigram Probability for word [square] is 0.0014969175316617753.
+
+Bigram probability for word [carlo] given first word from unigram [square] is 0.008771929824561403.
+
+Trigram probability for word [pondered] given words [('square', 'carlo')] is 0.5.
+Trigram probability for word [theory] given words [('carlo', 'pondered')] is 1.0.
+Trigram probability for word [born] given words [('pondered', 'theory')] is 1.0.
+Trigram probability for word [temporary] given words [('theory', 'born')] is 1.0.
+Trigram probability for word [local] given words [('born', 'temporary')] is 1.0.
+Trigram probability for word [conditions] given words [('temporary', 'local')] is 1.0.
+Trigram probability for word [occurred] given words [('local', 'conditions')] is 1.0.
+Trigram probability for word [got] given words [('conditions', 'occurred')] is 1.0.
+Trigram probability for word [measles] given words [('occurred', 'got')] is 1.0.
+Trigram probability for word [easy] given words [('got', 'measles')] is 1.0.
+Trigram probability for word [way] given words [('measles', 'easy')] is 1.0.
+Trigram probability for word [enlighten] given words [('easy', 'way')] is 1.0.
+Trigram probability for word [carlo] given words [('way', 'enlighten')] is 1.0.
+Trigram probability for word [reasons] given words [('enlighten', 'carlo')] is 1.0.
+Trigram probability for word [descendant] given words [('carlo', 'reasons')] is 1.0.
+Trigram probability for word [varicks] given words [('reasons', 'descendant')] is 1.0.
+Trigram probability for word [permitted] given words [('descendant', 'varicks')] is 1.0.
+Trigram probability for word [take] given words [('varicks', 'permitted')] is 1.0.
+
+Sentence Probability: 0.0014969175316617753 * 0.008771929824561403 * 0.5 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 * 1.0 = 6.5654277704463826e-06
+Sentence Probability with other model: 0.0003996550346017122 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 * 1e-08 = 3.996550346017124e-156

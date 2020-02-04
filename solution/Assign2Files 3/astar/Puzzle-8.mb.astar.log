@@ -1,0 +1,40 @@
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 100.29196977615356 seconds.
+Total states explored:262769
+Current path length: 9
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 200.81742572784424 seconds.
+Total states explored:427711
+Current path length: 9
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 301.3445177078247 seconds.
+Total states explored:509698
+Current path length: 9
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 456.7576937675476 seconds.
+Total states explored:591115
+Current path length: 8
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 500.43922185897827 seconds.
+Total states explored:644722
+Current path length: 9
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 784.9993937015533 seconds.
+Total states explored:708346
+Current path length: 9
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 790.0499799251556 seconds.
+Total states explored:713256
+Current path length: 11
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 801.2357256412506 seconds.
+Total states explored:723104
+Current path length: 11
+-----------------------------------------------
+Logging AStar for file Assign2Files 3/Puzzle-8.mb after 902.2324278354645 seconds.
+Total states explored:795925
+Current path length: 9
+-----------------------------------------------
+Exiting AStar for file Assign2Files 3/Puzzle-8.mb after approx(900) seconds.
+Total states explored:795925
+Current path length: 9
+--------------------------------------------
